@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T05:33:29.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Li6a7s7p_-B4j7S465ij" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T05:34:18.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yDFpos8HUhzLzNSF9y96" version="21.2.9" type="github">
   <diagram name="Página-1" id="F1gLiyISLk_b0Ikg0LPF">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -388,11 +388,11 @@
         <mxCell id="bxN1cvVJk15Dv3mf7cQ_-131" value="cantidad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="244" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bxN1cvVJk15Dv3mf7cQ_-132" value="oferta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bxN1cvVJk15Dv3mf7cQ_-132" value="Precio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bxN1cvVJk15Dv3mf7cQ_-133" value="valor" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="395" width="80" height="80" as="geometry" />
+          <mxGeometry x="685" y="395" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bxN1cvVJk15Dv3mf7cQ_-138" value="porcentaje" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="344" width="80" height="30" as="geometry" />
